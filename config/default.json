@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://knobico:roland13@socialnetwork-ptmyf.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken"
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "b561fc4f9529927d9d2e",
+  "githubSecret": "cb536d71d64a948454bb73e8242d79f5a3b94b60"
 }
