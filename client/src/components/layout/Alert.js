@@ -12,7 +12,7 @@ const Alert = ({ alerts }) =>
   ))
 
 Alert.propTypes = {
-  alerts: PropTypes.func.isRequired
+  alerts: PropTypes.object.isRequired
 }
 
 const mapStateToProps = state => ({
